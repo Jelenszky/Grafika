@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\Jelenszky Ádám\source\repos\Jelenszky_Adam_ZGTGPS_elso_beadando_grafika\Jelenszky_Adam_ZGTGPS_elso_beadando_grafika\Source.cpp(21,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jelenszky Ádám\source\repos\Jelenszky_Adam_ZGTGPS_elso_beadando_grafika\Jelenszky_Adam_ZGTGPS_elso_beadando_grafika\Source.cpp(39,85): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Jelenszky Ádám\source\repos\Jelenszky_Adam_ZGTGPS_elso_beadando_grafika\Jelenszky_Adam_ZGTGPS_elso_beadando_grafika\Source.cpp(93,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Jelenszky Ádám\source\repos\Jelenszky_Adam_ZGTGPS_elso_beadando_grafika\Jelenszky_Adam_ZGTGPS_elso_beadando_grafika\Source.cpp(95,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jelenszky Ádám\source\repos\Jelenszky_Adam_ZGTGPS_elso_beadando_grafika\Jelenszky_Adam_ZGTGPS_elso_beadando_grafika\Source.cpp(99,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Jelenszky Ádám\source\repos\Jelenszky_Adam_ZGTGPS_elso_beadando_grafika\Jelenszky_Adam_ZGTGPS_elso_beadando_grafika\Source.cpp(694,33): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\Jelenszky Ádám\source\repos\Jelenszky_Adam_ZGTGPS_elso_beadando_grafika\Jelenszky_Adam_ZGTGPS_elso_beadando_grafika\Source.cpp(893,11): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Jelenszky Ádám\source\repos\Jelenszky_Adam_ZGTGPS_elso_beadando_grafika\Jelenszky_Adam_ZGTGPS_elso_beadando_grafika\Source.cpp(897,12): warning C4305: '=': truncation from 'double' to 'float'
+  Jelenszky_Adam_ZGTGPS_elso_beadando_grafika.vcxproj -> C:\Users\Jelenszky Ádám\source\repos\Jelenszky_Adam_ZGTGPS_elso_beadando_grafika\x64\Debug\Jelenszky_Adam_ZGTGPS_elso_beadando_grafika.exe
